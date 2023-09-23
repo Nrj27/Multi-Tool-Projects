@@ -28,19 +28,25 @@ Enter the desired password length when prompted.
 The script will generate a random password and display it in the terminal.
 
 ## Output 
+
 ``` Enter password length: 12
-Generated Password: R#nH2kG&pZ1y ```
-If you specify a length less than 8 characters, the script will provide a warning.
+Generated Password: R#nH2kG&pZ1y
+ ```
+If you specify a length of less than 8 characters, the script will provide a warning.
 
 
-``` Enter password length: 6
-Password length should be at least 8 characters. ```
+```
+Enter password length: 6
+Password length should be at least 8 characters.
+```
 Customization
 You can customize the default password length by modifying the generate_password function in the script.
 
 
-``` def generate_password(length=12):
-    # ... ```
+```
+ def generate_password(length=12):
+    # ...
+```
 Simply change the length parameter to your preferred default length.
 
 ## License
