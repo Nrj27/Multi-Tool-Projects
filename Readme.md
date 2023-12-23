@@ -9,13 +9,14 @@ Welcome to the Multi-Tool Projects repository! This repository is a collection o
 If you prefer Java, we've got you covered. This Java-based random password generator can create robust passwords to enhance your online security. Refer to the README within this project for more information.
 
 
-## Random Password Generator - Python 1
+## Random Password Generator 
+- Implementation 1
 
 Generate strong and secure random passwords with Python. This project provides one implementation of a random password generator, complete with usage instructions.
-
-## Random Password Generator - Python 2
-
-Here's another Python implementation of a random password generator, offering different features and customization options. Check out the README for details on how to use this tool effectively.
+- Implementation 2
+  
+Here's another Python implementation of a random password generator, offering different features and customization options. 
+Check out the README for details on how to use this tool effectively.
 
 
 ## Text to Speech Converter - Python
